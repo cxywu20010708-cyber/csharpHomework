@@ -1,0 +1,7 @@
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\obj\Debug\ConsoleApp4.csprojAssemblyReference.cache
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\大二下学期学习资料\软件构造基础\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
